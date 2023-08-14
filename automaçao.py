@@ -12,6 +12,7 @@ tabela = pd.read_excel("Chamados.xlsx")
 
 print(tabela)
 
+#verificação de atualização
 
 time.sleep(5)
 # Loop para percorrer os códigos
